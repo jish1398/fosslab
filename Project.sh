@@ -28,7 +28,7 @@ sed 's/) EE100(/ /g' S1temp.txt > S.txt
 sed 's/) PH110(/ /g' S.txt > S1temp.txt
 sed 's/) EE110(/ /g' S1temp.txt > S.txt
 sed 's/) CS110(/ /g' S.txt > S1temp.txt
-sed 's/)/ /g' S1temp.txt > S.txt
+sed 's/)/ /g' S1temp.txt > S.txt 
 
 sed 's/ O/ 10/g' < S.txt > S1temp.txt
 sed 's/ A+/ 9/g' < S1temp.txt > S.txt
