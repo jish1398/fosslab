@@ -1,16 +1,23 @@
-x=$(lsb_release -a)
-echo "Show all available shells"
+echo "Logged user and his/her logname"
+x=$(logname)
+y=$(who)
+echo "Currently logged user and his/her logname : $y and $x"
 echo ""
-cat /etc/shells
-echo "computer CPU information like processor type, speed"
+echo "Current shell"
+echo $SHELL
 echo ""
-echo $(sudo dmidecode -t 4)
-echo "memory information"
+echo "Home directory"
+echo $HOME
 echo ""
-echo $(free -m)
-echo "hard disk information like size of hard-disk, cache memory, model "
+echo "Operating system type"
+x=$(arch)
+echo "Operating system type : $x"
 echo ""
-echo $(sudo dmidecode -t memory)
-echo "File system (Mounted)"
+echo "Current path setting"
+echo $PATH
 echo ""
-echo $(sudo fdisk -l)
+echo "Current working directory"
+echo $pwd
+echo ""
+echo "Currently logged number of users"
+echo $users
