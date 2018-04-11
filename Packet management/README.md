@@ -1,4 +1,8 @@
-## This include 3 file to install, remove and upgrade packets.
+## This include 3 files to install, remove and upgrade packets respectively.
+- sudo apt-get install packet-name
+- sudo apt-get remove packet-name
+- sudo apt-get upgrade packet-name
+
 
 ## Other Used Commands include
     apt-cache search ​ search_string
