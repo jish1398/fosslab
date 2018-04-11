@@ -28,7 +28,7 @@ drwxr-xr-x 2 exam exam 4096 Feb  2 15:57 Downloads
 -rwxr-xr-x 1 exam exam 5533 Jan 12 17:25 fifo2
 -rw-r--r-- 1 exam exam  710 Jan 12 16:41 fifo2.c
 drwxr-xr-x 9 exam exam 4096 Jun 28  2017 firefox
--rw-r--r-- 1 exam exam    0 Jan  4 10:54 girls boo**
+-rw-r--r-- 1 exam exam    0 Jan  4 10:54 project
 drwxr-xr-x 2 exam exam 4096 Feb 28  2017 group
 -rw-r--r-- 1 exam exam 8106 Jan 18 12:20 history_for_print.txt
 drwxr-xr-x 2 exam exam 4096 Jan 11 12:14 Jishnu
