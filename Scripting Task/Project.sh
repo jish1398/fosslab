@@ -181,3 +181,4 @@ column -t tc1.txt > tc2.txt
 join -j 1 <(sort r4.txt) <(sort tc2.txt) > r5.txt
 sed -i -e '1iRegNumber SGPA1 SGPA2 CGPA NAME\' r5.txt
 cat r5.txt | column -t
+column -t r5.txt > Output.txt

@@ -1,0 +1,62 @@
+RegNumber   SGPA1  SGPA2  CGPA  NAME
+MDL16CS001  8.1    8.5    8.3   AARATHI    MENON
+MDL16CS002  8.7    8.0    8.3   ABHIJITH   A
+MDL16CS004  5.9    6.1    6.0   ABHISHEK   P
+MDL16CS005  4.8    4.6    4.6   ABIN       MATHEW        THOMAS
+MDL16CS006  8.2    8.0    8.0   ACHUTH     GOVIND        R
+MDL16CS007  9.2    8.9    9.0   ADARSH     P             MENON
+MDL16CS013  8.8    8.4    8.5   AISHWARYA  RAMESH        K
+MDL16CS015  8.5    8.5    8.5   AKSHAY     BALAKRISHNAN
+MDL16CS017  8.5    6.8    7.6   ALFIN      S             THOMAS
+MDL16CS019  7.8    6.7    7.2   ALWIN      SHAJI         JOSEPH
+MDL16CS020  8.2    8.9    8.5   AMAN       O
+MDL16CS022  7.5    7.1    7.2   ANAND      S             MENON
+MDL16CS024  5.3    6.4    5.8   ANEESH     T             GEORGE
+MDL16CS025  8.4    7.2    7.7   ANJITHA    JOYS
+MDL16CS026  7.7    7.4    7.5   ANN        SUSAN         BAIJU
+MDL16CS027  8.8    7.3    8.0   K          ANUPAMA       PRAKASH
+MDL16CS031  7.7    5.8    6.7   ARJUN      KRISHNA       A
+MDL16CS032  9.0    8.4    8.6   ARJUN      RAJ
+MDL16CS034  9.3    8.5    8.8   ARUN       ABRAHAM
+MDL16CS038  8.5    8.5    8.5   ASWATHY    R
+MDL16CS039  8.7    8.3    8.4   ASWIN      P             S
+MDL16CS040  7.8    8.2    8.0   AUGUSTINE  THARAKAN
+MDL16CS041  7.5    7.1    7.2   BENJAMIN   BENNY
+MDL16CS048  8.5    8.2    8.3   E          VISHNU        BHAGYANATH
+MDL16CS049  3.0    3.0    3.0   EBI        M             J
+MDL16CS050  9.5    9.4    9.4   FARHA      ABDUL         KAREEM
+MDL16CS054  8.1    7.3    7.6   JESWIN     CYRIAC
+MDL16CS056  9.0    9.5    9.2   JISHNU     S             NAIR
+MDL16CS058  9.0    7.9    8.4   JOANN      P             ELZA
+MDL16CS060  7.8    8.1    7.9   JOSEPH     F             MATHEW
+MDL16CS061  7.0    3.6    5.2   JOSEPH     RAJU
+MDL16CS063  8.5    7.8    8.1   KENNETH    GODWIN        ISIDORE
+MDL16CS067  7.9    7.6    7.7   KURIAN     THOMAS        PULIMOOTTIL
+MDL16CS071  9.4    9.0    9.1   MEGHA      DINESH
+MDL16CS072  8.6    7.9    8.2   MEGHA      V             K
+MDL16CS073  9.3    9.0    9.1   MERIN      JOSE
+MDL16CS077  8.5    7.7    8.0   MUHAMMED   IRFAN         A
+MDL16CS078  9.5    8.7    9.0   NEENA      MATHEW
+MDL16CS079  9.4    8.9    9.1   NEHA       MARIA         JOSEPH
+MDL16CS082  8.4    7.7    8.0   NIKITA     UDAY
+MDL16CS083  8.9    7.1    7.9   NITHIN     S             SABU
+MDL16CS086  9.1    8.5    8.7   PALLAVI    V             G
+MDL16CS088  9.4    8.6    8.9   PETER      JOE           PAYYAPPIILY
+MDL16CS090  8.2    6.6    7.3   RAKESH     PAI           R
+MDL16CS091  9.0    8.4    8.6   RAWN       ABRAHAM       RIJU
+MDL16CS093  9.5    9.1    9.2   RISHIKESH  K             B
+MDL16CS094  6.6    8.1    7.3   ROHAN      AJITH
+MDL16CS095  9.5    8.5    8.9   ROY        C             A
+MDL16CS098  3.9    2.7    3.2   SAYYID     NAEEMUL       HAQ
+MDL16CS099  9.3    8.4    8.8   SERENE     ELIZABETH     THOMAS
+MDL16CS101  8.5    8.3    8.3   SHAWN      JOHN          RIJU
+MDL16CS103  8.3    8.5    8.4   SHAZIA     SALIM
+MDL16CS104  5.7    7.4    6.5   SHEHZIN    C             SHAJAHAN
+MDL16CS105  8.3    8.4    8.3   V          SHRIRAM
+MDL16CS107  8.7    8.5    8.5   SHWETHA    R             VARMA
+MDL16CS111  8.7    8.6    8.6   SONIYA     STELLA        M
+MDL16CS115  8.3    8.1    8.1   SUBIN      C             BENNY
+MDL16CS116  6.9    7.5    7.2   SUJITH     K
+MDL16CS120  5.6    7.9    6.7   VAISHNAV   T             ULLAS
+MDL16CS121  2.4    3.7    3.0   VINEETH    E             V
+MDL16CS123  9.3    8.5    8.8   VYSAKH     S

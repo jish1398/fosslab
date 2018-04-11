@@ -1,0 +1,120 @@
+
+Chmod
+
+vishnu@vishnunew:~$ ls -l file1 file2 file3 
+-rwxrwxrwx 1 vishnu vishnu 0 Jan 18 16:22 file1 
+-rw-rw-r-- 1 vishnu vishnu 0 Jan 18 16:22 file2 
+-rw-rw-r-- 1 vishnu vishnu 0 Jan 18 16:22 file3 
+vishnu@vishnunew:~$ chmod +r file2 
+vishnu@vishnunew:~$ chmod 555 file2 
+vishnu@vishnunew:~$ chmod 777 file3 
+vishnu@vishnunew:~$ ls -l file1 file2 file3 
+-rwxrwxrwx 1 vishnu vishnu 0 Jan 18 16:22 file1 
+-r-xr-xr-x 1 vishnu vishnu 0 Jan 18 16:22 file2 
+-rwxrwxrwx 1 vishnu vishnu 0 Jan 18 16:22 file3 
+vishnu@vishnunew:~$ 
+
+
+Changing password
+
+
+vishnu@vishnunew:~$ passwd 
+Changing password for vishnu. 
+(current) UNIX password: 
+Enter new UNIX password: 
+Retype new UNIX password: 
+You must choose a longer password 
+Enter new UNIX password: 
+Retype new UNIX password: 
+You must choose a longer password 
+Enter new UNIX password: 
+Retype new UNIX password: 
+passwd: password updated successfully 
+
+
+Adding Users
+
+vishnu@vishnunew:~$ sudo adduser Jishnu --force-badname 
+Allowing use of questionable username. 
+Adding user `Jishnu' ... 
+Adding new group `Jishnu' (1003) ... 
+Adding new user `Jishnu' (1003) with group `Jishnu' ... 
+The home directory `/home/Jishnu' already exists.  Not copying from `/etc/skel'. 
+Enter new UNIX password: 
+Retype new UNIX password: 
+passwd: password updated successfully 
+Changing the user information for Jishnu 
+Enter the new value, or press ENTER for the default 
+	Full Name []: JIshnu 
+	Room Number []: 123 
+	Work Phone []: 123 
+	Home Phone []: 
+	Other []: 123 
+Is the information correct? [Y/n] y 
+
+
+
+Deleting the user
+
+vishnu@vishnunew:sudo deluser Jishnu 
+Removing user `Jishnu' ... 
+Warning: group `Jishnu' has no more members. 
+Done. 
+
+
+Changing Ownership
+
+
+vishnu@vishnunew:sudo chown Jishu arc.py 
+vishnu@vishnunew:~$ ls -l arc.py 
+-r-xr-xr-x 1 Jishu vishnu 178 Oct 14  2016 arc.py 
+
+Creating Groups
+
+
+vishnu@vishnunew:sudo addgroup Jish --force-badname 
+Allowing use of questionable username. 
+Adding group `Jish' (GID 1005) ... 
+Done. 
+
+Deleting Groups
+
+
+vishnu@vishnunew:sudo delgroup Jish 
+Removing group `Jish' ... 
+Done. 
+
+Shell Scripting Basics
+
+
+vishnu@vishnunew:~$ cd Jishnu 
+vishnu@vishnunew:~/Jishnu$ nano pi.sjh 
+vishnu@vishnunew:~/Jishnu$ pwd 
+/home/vishnu/Jishnu 
+vishnu@vishnunew:~/Jishnu$ ./pi.sh 
+bash: ./pi.sh: Permission denied 
+vishnu@vishnunew:~/Jishnu$ ls -l pi.sh 
+-rw-rw-r-- 1 vishnu vishnu 27 Jan 18 17:23 pi.sh 
+vishnu@vishnunew:~/Jishnu$ chmod u+x pi.sh 
+vishnu@vishnunew:~/Jishnu$ ./pi.sh 
+Hello 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
